@@ -1,0 +1,3 @@
+<?php
+$TOKEN="802660213:AAHcYT5fLwyCvncaRd3CxbP6rXzw41HZJps";
+?>
